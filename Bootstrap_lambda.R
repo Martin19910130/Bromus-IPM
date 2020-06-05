@@ -1,7 +1,6 @@
 ##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ##    Lambda calculation, Bootstrap
 ##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-###test
 rm(list = ls())
 gc()
 options(stringsAsFactors = F)
